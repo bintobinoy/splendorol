@@ -1,5 +1,3 @@
 print('aswin love simiya')
 print('abin love anjana')
-print('binto love anjana')
-print('lloyd love simiya')
 print('sovit love simiya')
